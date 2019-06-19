@@ -1,0 +1,45 @@
+p,hr{
+    padding: 0px;
+    margin: 0px;
+}
+
+.lux{
+     display:inline-block;
+      height:150px;
+}
+.add{
+    display:inline-block;
+  }
+.add:hover{
+    background-color: green;
+    color:white;
+}
+.carousel-caption{
+    top:30%;
+}
+.media{
+      height:300px;
+      margin-top:35px;
+    }
+
+.logos img{
+     height:150px;
+    margin-top: 20px;
+}
+.list-unstyled>li>a{
+     text-decoration: none;
+}
+
+.list-unstyled>li>a{
+    color:ghostwhite;
+}
+
+
+hr{
+    background-color:darkgrey;
+}
+  
+
+
+
+
